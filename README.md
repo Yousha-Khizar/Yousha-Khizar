@@ -17,4 +17,4 @@ Ich bin angehender Fachinformatiker für Anwendungsentwicklung und interessiere 
 ## Aktuell
 - Umschulung zum Fachinformatiker für Anwendungsentwicklung
 - Suche eine betriebliche Praxisphase
-- Projekte auf: github.com/Yousha-Khizar
+
